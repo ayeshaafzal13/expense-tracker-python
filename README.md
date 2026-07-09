@@ -1,4 +1,4 @@
-# 💰 Expense Tracker Pro
+# 💰 Expense Tracker 
 
 A colorful, feature-rich expense tracking application built in Python with data persistence and visual analytics.
 
