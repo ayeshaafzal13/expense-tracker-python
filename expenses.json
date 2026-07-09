@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "amount": 6900.0,
+        "category": "Entertainment",
+        "description": "I wanna go to some enjoyable place",
+        "date": "09-07-2026",
+        "timestamp": "2026-07-09T11:45:24.019393"
+    },
+    {
+        "id": 2,
+        "amount": 70000.0,
+        "category": "Transport",
+        "description": "Go to murree for meeting relaitives",
+        "date": "09-07-2026",
+        "timestamp": "2026-07-09T11:50:42.312939"
+    }
+]
