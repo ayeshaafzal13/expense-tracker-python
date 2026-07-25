@@ -31,4 +31,4 @@ A feature-rich expense tracking application with **Terminal CLI** and a **Web Da
 - 🎨 Modern UI with gradient backgrounds
 
 ### Live Demo
-
+https://ayeshaafzal13.github.io/expense-tracker-python/
