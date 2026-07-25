@@ -1,35 +1,34 @@
-# 💰 Expense Tracker 
+# 💰 Expense Tracker Pro
 
-A colorful, feature-rich expense tracking application built in Python with data persistence and visual analytics.
+A feature-rich expense tracking application with **Terminal CLI** and a **Web Dashboard** for visualizing spending patterns.
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+---
 
 ## ✨ Features
 
+### 🖥️ **Terminal Version**
 - ➕ Add expenses with amount, category, description & date
-- 📊 View all expenses in a formatted table
+- 📊 View all expenses in a formatted table with color-coded amounts
 - 📈 Category-wise summary with visual bar charts
-- 🔍 Search by keyword or category
+- 🔍 Search expenses by keyword or category
 - 🗑️ Delete expenses with confirmation
-- 💾 Export to CSV for Excel/Google Sheets
-- 🎨 Color-coded terminal interface
-- 💾 Auto-save using JSON
+- 💾 Export data to CSV
+- 🎨 Colorful terminal interface using Colorama
 
-## 🚀 Quick Start
+### 🌐 **Web Dashboard**
+- 📊 View spending overview with interactive charts (Chart.js)
+- 📈 Monthly spending trend (Line chart)
+- 🥧 Category breakdown (Pie chart)
+- 💰 Live statistics (Total, Average, Highest spending)
+- ➕ Add expenses through a web form
+- ✏️ Edit existing expenses
+- 🗑️ Delete expenses with one click
+- 📱 Responsive design that works on mobile and desktop
+- 🎨 Modern UI with gradient backgrounds
 
-### Prerequisites
-- Python 3.7 or higher
+### Live Demo
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/ayeshaafzal13/expense-tracker-python.git
-cd expense-tracker-python
-
-# Install dependencies
-pip install colorama
-
-# Run the application
-python expense_tracker.py
