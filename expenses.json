@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "amount": 6900.0,
+        "category": "Entertainment",
+        "description": "I wanna go to some enjoyable place",
+        "date": "09-07-2026",
+        "timestamp": "2026-07-09T11:45:24.019393"
+    },
+    {
+        "id": 3,
+        "amount": 5000.0,
+        "category": "Bills",
+        "description": "Water Bill",
+        "date": "09-07-2026",
+        "timestamp": "2026-07-09T12:19:14.628742"
+    }
+]
